@@ -60,7 +60,7 @@ Le modèle retenu privilégie le **rappel** : dans un contexte de gestion des ri
 
 ## 📊 Jeu de données
 
-- **Fichier** : [`data/natural_disasters.csv`](natural_disasters.csv)
+- **Fichier** : [`data/natural_disasters.csv`](data/natural_disasters.csv)
 - **Taille brute** : 16 126 lignes × 45 colonnes
 - **Période couverte** : 1900 – 2021
 - **Types de catastrophes** : 15 (principalement *Flood*, *Storm*, *Earthquake*, *Epidemic*, *Landslide*, *Drought*)
